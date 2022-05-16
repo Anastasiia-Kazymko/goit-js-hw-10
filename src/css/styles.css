@@ -18,3 +18,13 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li {
+  list-style-type: none;  
+}
+
+.country-el{
+  font-size: 25px;
+    font-weight: 600;
+    margin-top: 10px;
+}
