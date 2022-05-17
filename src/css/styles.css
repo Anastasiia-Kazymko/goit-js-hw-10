@@ -28,3 +28,20 @@ li {
     font-weight: 600;
     margin-top: 10px;
 }
+
+.title{
+  display: flex;
+  align-items: center;
+}
+.title img {
+  margin-right: 10px;
+}
+
+p span {
+  font-size: 18px;
+    font-weight: 700;
+}
+
+p  {
+  font-size: 18px;  
+}
